@@ -21,7 +21,7 @@ In short terms, this project covers the basics of a e-commerce website
 1. First you need to clone the project with and go to directory
 	```
 	> git clone https://github.com/yashi-04/E-commerce-WebApp.git
-	> cd e-commerce-frontend
+	> cd E-commerce-WebApp
 	```
 2. Then you need to go to [backend](https://github.com/buraksekili/ecommerce-backend) part and complete the steps explained in the [readme](https://github.com/buraksekili/ecommerce-backend/blob/master/README.md).
 3. Then you need to install the dependencies with

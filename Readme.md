@@ -1,5 +1,5 @@
 # E-Commerce Basketball Store Frontend
-You can see the screenshots of the application from [screenshots](#screenshots) part. 
+You can see the screenshots of the application from [Screenshots](#Screenshots) part. 
 
 ## What does this project include?
 - User creation and authentication
